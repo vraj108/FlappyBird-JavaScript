@@ -22,7 +22,7 @@ var gap = 85;
 var constant;
 
 var bX = 10;
-var bY = 150;
+var bY = 120;
 
 var gravity = 1.5;
 
