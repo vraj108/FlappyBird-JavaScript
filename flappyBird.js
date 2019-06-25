@@ -18,7 +18,7 @@ pipeSouth.src = "images/pipeSouth.png";
 
 // some variables
 
-var gap = 85;
+var gap = 70;
 var constant;
 
 var bX = 10;
