@@ -69,7 +69,7 @@ function draw(){
              
         pipe[i].x--;
         
-        if( pipe[i].x == 100 ){
+        if( pipe[i].x == 80 ){
             pipe.push({
                 x : cvs.width,
                 y : Math.floor(Math.random()*pipeNorth.height)-pipeNorth.height
